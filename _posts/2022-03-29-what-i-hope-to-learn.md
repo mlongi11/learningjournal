@@ -2,9 +2,6 @@
 layout: post
 title: "What I hope to learn"
 ---
-
-# Welcome
-
 **Hello world**, I hope to learn a few things in App Dev II including:
 - How to make dynamic web apps
 - How to write an API
