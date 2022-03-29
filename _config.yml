@@ -3,15 +3,15 @@ title:               'Today I Learned'
 tagline:             'Notes to self about software development'
 description:         ''
 url:                 'https://appdev-projects.github.io/'
-baseurl:             'til/'
+baseurl:             'learningjournal/'
 paginate:            5
 permalink:           pretty
 
 # About/contact
 author:
-  name:              Raghu Betina
-  url:               https://twitter.com/raghubetina
-  email:             raghu@firstdraft.com
+  name:              Maxwell Longi
+  url:               https://www.linkedin.com/in/maxwelllongi/
+  email:             maxwell.longi@gmail.com
 
 # Gems
 plugins:
